@@ -1,6 +1,12 @@
-title: Minimal theme
+title: Pandiarajan Nammalwar
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description:
+<p align="center">
+  <a href="https://github.com/pandiarajan0202">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Working as a Data Team Lead in Singlife with Aviva, Singapore
+  <br>
+  </p>
 theme: jekyll-theme-minimal
